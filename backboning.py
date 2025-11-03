@@ -196,9 +196,9 @@ def disparity_filter(table, undirected = False, return_self_loops = False):
       table = table.merge(table_maxscore, on = "edge", suffixes = ("_min", ""))
       table = table.merge(table_minvar, on = "edge", suffixes = ("_max", ""))
       table = table.drop_duplicates(subset = ["edge"])
-      table = table.drop("edge", 1)
-      table = table.drop("score_min", 1)
-      table = table.drop("variance_max", 1)
+      table = table.drop("edge", axis=1)
+      table = table.drop("score_min", axis=1)
+      table = table.drop("variance_max", axis=1)
    return table[["src", "trg", "nij", "score", "variance"]]
 
 def high_salience_skeleton(table, undirected = False, return_self_loops = False):
