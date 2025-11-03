@@ -614,9 +614,6 @@
     <node id="don henley">
       <data key="d0">9993</data>
     </node>
-    <node id="poison (american band)">
-      <data key="d0">9</data>
-    </node>
     <node id="chris cornell">
       <data key="d0">32169</data>
     </node>
@@ -2449,7 +2446,6 @@
     <edge source="hinder" target="bon jovi" />
     <edge source="hinder" target="acdc" />
     <edge source="kiss (band)" target="blue öyster cult" />
-    <edge source="kiss (band)" target="poison (american band)" />
     <edge source="kiss (band)" target="alice cooper" />
     <edge source="kiss (band)" target="the beatles" />
     <edge source="kiss (band)" target="aerosmith" />
@@ -3804,7 +3800,6 @@
     <edge source="damn yankees (band)" target="styx (band)" />
     <edge source="damn yankees (band)" target="lynyrd skynyrd" />
     <edge source="damn yankees (band)" target="bad company" />
-    <edge source="damn yankees (band)" target="poison (american band)" />
     <edge source="damn yankees (band)" target="alice cooper" />
     <edge source="megadeth" target="slayer" />
     <edge source="megadeth" target="anthrax (american band)" />
@@ -3977,7 +3972,6 @@
     <edge source="mötley crüe" target="aerosmith" />
     <edge source="mötley crüe" target="living colour" />
     <edge source="mötley crüe" target="guns n' roses" />
-    <edge source="mötley crüe" target="poison (american band)" />
     <edge source="mötley crüe" target="scorpions (band)" />
     <edge source="mötley crüe" target="hole (band)" />
     <edge source="mötley crüe" target="megadeth" />
@@ -4005,7 +3999,6 @@
     <edge source="alice in chains" target="david bowie" />
     <edge source="alice in chains" target="van halen" />
     <edge source="alice in chains" target="iggy pop" />
-    <edge source="alice in chains" target="poison (american band)" />
     <edge source="alice in chains" target="extreme (band)" />
     <edge source="alice in chains" target="anthrax (american band)" />
     <edge source="alice in chains" target="megadeth" />
@@ -4395,7 +4388,6 @@
     <edge source="slade" target="the clash" />
     <edge source="slade" target="kiss (band)" />
     <edge source="slade" target="mötley crüe" />
-    <edge source="slade" target="poison (american band)" />
     <edge source="slade" target="def leppard" />
     <edge source="slade" target="cheap trick" />
     <edge source="slade" target="twisted sister" />
@@ -4560,7 +4552,6 @@
     <edge source="def leppard" target="the all-american rejects" />
     <edge source="def leppard" target="reo speedwagon" />
     <edge source="def leppard" target="black stone cherry" />
-    <edge source="def leppard" target="poison (american band)" />
     <edge source="def leppard" target="cheap trick" />
     <edge source="def leppard" target="zz top" />
     <edge source="def leppard" target="heart (band)" />
@@ -5059,7 +5050,6 @@
     <edge source="new york dolls" target="pixies (band)" />
     <edge source="new york dolls" target="beck" />
     <edge source="new york dolls" target="mötley crüe" />
-    <edge source="new york dolls" target="poison (american band)" />
     <edge source="new york dolls" target="john lennon" />
     <edge source="new york dolls" target="bob dylan" />
     <edge source="new york dolls" target="foreigner (band)" />
@@ -5108,7 +5098,6 @@
     <edge source="ratt" target="anthrax (american band)" />
     <edge source="ratt" target="megadeth" />
     <edge source="ratt" target="slayer" />
-    <edge source="ratt" target="poison (american band)" />
     <edge source="ratt" target="warrant (american band)" />
     <edge source="ratt" target="scorpions (band)" />
     <edge source="ratt" target="quiet riot" />
@@ -5120,14 +5109,12 @@
     <edge source="ratt" target="iron maiden" />
     <edge source="tesla (band)" target="alice cooper" />
     <edge source="tesla (band)" target="def leppard" />
-    <edge source="tesla (band)" target="poison (american band)" />
     <edge source="tesla (band)" target="led zeppelin" />
     <edge source="tesla (band)" target="styx (band)" />
     <edge source="tesla (band)" target="queen (band)" />
     <edge source="tesla (band)" target="bad company" />
     <edge source="tesla (band)" target="the beatles" />
     <edge source="cinderella (band)" target="kiss (band)" />
-    <edge source="cinderella (band)" target="poison (american band)" />
     <edge source="cinderella (band)" target="van halen" />
     <edge source="cinderella (band)" target="bon jovi" />
     <edge source="cinderella (band)" target="ozzy osbourne" />
@@ -5152,7 +5139,6 @@
     <edge source="skid row (american band)" target="jimi hendrix" />
     <edge source="skid row (american band)" target="van halen" />
     <edge source="skid row (american band)" target="kiss (band)" />
-    <edge source="skid row (american band)" target="poison (american band)" />
     <edge source="skid row (american band)" target="inxs" />
     <edge source="skid row (american band)" target="ratt" />
     <edge source="extreme (band)" target="queen (band)" />
@@ -5161,7 +5147,6 @@
     <edge source="extreme (band)" target="red hot chili peppers" />
     <edge source="extreme (band)" target="living colour" />
     <edge source="warrant (american band)" target="great white" />
-    <edge source="warrant (american band)" target="poison (american band)" />
     <edge source="warrant (american band)" target="ted nugent" />
     <edge source="warrant (american band)" target="mötley crüe" />
     <edge source="warrant (american band)" target="queensrÿche" />
@@ -6977,7 +6962,6 @@
     <edge source="black veil brides" target="metallica" />
     <edge source="black veil brides" target="marilyn manson (band)" />
     <edge source="black veil brides" target="pantera" />
-    <edge source="black veil brides" target="poison (american band)" />
     <edge source="black veil brides" target="afi (band)" />
     <edge source="black veil brides" target="w.a.s.p. (band)" />
     <edge source="black veil brides" target="rob zombie" />
@@ -8124,7 +8108,6 @@
     <edge source="great white" target="alice cooper" />
     <edge source="great white" target="skid row (american band)" />
     <edge source="great white" target="scorpions (band)" />
-    <edge source="great white" target="poison (american band)" />
     <edge source="great white" target="quiet riot" />
     <edge source="golden earring" target="the byrds" />
     <edge source="golden earring" target="jimi hendrix" />
